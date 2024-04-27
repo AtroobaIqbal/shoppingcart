@@ -1,7 +1,5 @@
 import product1 from "./assets/2149509248.jpg"
 
-
-
 export const PRODUCTS = [
     {
         id : 1,
